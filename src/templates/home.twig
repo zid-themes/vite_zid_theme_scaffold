@@ -1,0 +1,20 @@
+<!-- index.twig -->
+{% extends '../layout.twig' %}
+
+{% block header %}    {% include '../header.twig' %} {% endblock %}
+
+{% block content %}
+    <div class="p-5 bg-red-600 text-white">This is me</div>
+    {% include '../common/newsletter-section.twig' %}
+    {% include '../common/comments-block.twig' %}
+{% endblock %}
+
+{% block footer %}
+    {% include '../footer.twig' %}
+{% endblock %}
+
+{% block footer_scripts %}
+    <span>Footer scripts</span>
+    <script deref src="./bundle.js"></script>
+    <script defer src="assets/main.js"></script>
+{% endblock %}

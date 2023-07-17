@@ -1,0 +1,28 @@
+{% extends 'layout.twig' %}
+{% block header %}
+	{% include '/header.twig' %}
+{% endblock %}
+{% block footer %}
+	{% include '/footer.twig' %}
+{% endblock %}
+{% block content %}
+	{% include '/common/tailwindsections/header-1.twig' %}
+	<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
+	{% include '/common/tailwindsections/header-2.twig' %}
+	<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
+	{% include '/common/tailwindsections/counters.twig' %}
+	<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
+	{% include '/common/tailwindsections/faq.twig' %}
+	<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
+	{% include '/common/tailwindsections/testimonials.twig' %}
+	<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
+	{% include '/common/tailwindsections/testimonials-2.twig' %}
+	<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
+	{% include '/common/tailwindsections/partners.twig' %}
+	<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
+
+	{% include '/common/tailwindsections/newsletter-section.twig' %}
+	<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
+
+	{% include '/common/tailwindsections/comments-block.twig' %}
+{% endblock %}

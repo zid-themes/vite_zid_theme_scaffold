@@ -1,0 +1,18 @@
+<!-- index.twig -->
+{% extends 'layout.twig' %}
+
+{% block header %}
+	
+{% endblock %}
+{% block footer %}
+	
+{% endblock %}
+
+{% block content %}
+	<main class="container mx-auto">
+		<div class="p-5 h-80 bg-red-200 text-slate-500">This is me</div>
+	</main>
+    {% include '/common/index-popup.twig' %}
+{% endblock %}
+
+{% block footer_scripts %}{% endblock %}

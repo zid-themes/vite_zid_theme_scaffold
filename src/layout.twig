@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" class="dark">
+	<head>
+		<title>{{ site.title }}</title>
+		<meta charset="utf-8"/>
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width"/>
+		<meta name="mobile-web-app-capable" content="yes"/>
+
+		{{ header_meta_tags | raw }}
+
+		<meta name="description" content="🙂"/>
+		<meta name="color-scheme" content="dark light"/>
+
+		<link rel="stylesheet" href="/src/assets/styles/main.css">
+		
+	</head>
+	<body class="bg-slate-800 text-white">
+		{% include '/header.twig' %}
+		{% block header %}{% endblock %}
+
+		{% block content %}{% endblock %}
+
+		{% block footer %}{% endblock %}
+		{% include '/footer.twig' %}
+		<script type="module" src="/src/assets/scripts/main.ts"></script>
+		{% block footer_scripts %}{% endblock %}
+	</body>
+</html>

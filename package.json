@@ -1,0 +1,25 @@
+{
+  "name": "vite_zid_theme_scaffold",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vituum/vite-plugin-twig": "^1.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.26",
+    "prettier-plugin-twig-melody": "^0.4.6",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.0",
+    "vituum": "^1.0.0"
+  },
+  "dependencies": {
+    "@egoist/tailwindcss-icons": "^1.1.0",
+    "@iconify/json": "^2.2.91"
+  }
+}

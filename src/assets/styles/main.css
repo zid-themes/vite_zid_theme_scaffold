@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1rem 0;
+    border: 1px solid red;
+    padding: 1rem;
+  }
+  
