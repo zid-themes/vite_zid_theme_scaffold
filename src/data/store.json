@@ -1,0 +1,115 @@
+{
+    "store": {
+        "id": 1011,
+        "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx",
+        "name": "Mystore Store",
+        "permalink": "http://my-store.com/",
+        "currency": {
+            "id": 2,
+            "name": "Saudi Riyal",
+            "code": "SAR",
+            "symbol": "س.ر.",
+            "country": {
+                "id": 183,
+                "name": "السعودية",
+                "code": "SA",
+                "country_code": "SAU",
+                "flag": "https://zid-testing.s3.eu-west-1.amazonaws.com/static/sa.svg"
+            }
+        },
+        "currencies": [
+            {
+                "id": 3,
+                "name": "Kuwaiti Dinar",
+                "code": "KWD",
+                "symbol": "د.ك.",
+                "country": {
+                    "id": 113,
+                    "name": "الكويت",
+                    "code": "KW",
+                    "country_code": "KWT",
+                    "flag": "https://zid-testing.s3.eu-west-1.amazonaws.com/static/kw.svg"
+                }
+            },
+            {
+                "id": 5,
+                "name": "UAE Dirham",
+                "code": "AED",
+                "symbol": "دإ‏",
+                "country": {
+                    "id": 220,
+                    "name": "الإمارات العربية المتحدة",
+                    "code": "AE",
+                    "country_code": "ARE",
+                    "flag": "https://zid-testing.s3.eu-west-1.amazonaws.com/static/ae.svg"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Saudi Riyal",
+                "code": "SAR",
+                "symbol": "س.ر.",
+                "country": {
+                    "id": 183,
+                    "name": "السعودية",
+                    "code": "SA",
+                    "country_code": "SAU",
+                    "flag": "https://zid-testing.s3.eu-west-1.amazonaws.com/static/sa.svg"
+                }
+            },
+            {
+                "id": 4,
+                "name": "Bahraini Dinar",
+                "code": "BHD",
+                "symbol": ".د.",
+                "country": {
+                    "id": 17,
+                    "name": "البحرين",
+                    "code": "BH",
+                    "country_code": "BHR",
+                    "flag": "https://zid-testing.s3.eu-west-1.amazonaws.com/static/bh.svg"
+                }
+            }
+        ],
+        "language": {
+            "id": 2,
+            "name": "عربي",
+            "code": "ar"
+        },
+        "languages": [
+            {
+                "id": 2,
+                "name": "عربي",
+                "code": "ar"
+            },
+            {
+                "id": 1,
+                "name": "English",
+                "code": "en"
+            }
+        ],
+        "phone": "9665xxxxxxx",
+        "email": "myemail@email.com",
+        "logo": "https://zid-testing.s3.eu-west-1.amazonaws.com/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/418f582a-b051-4773-bf34-be35cf14ac9a-200x.png",
+        "cover": "https://zid-testing.s3.eu-west-1.amazonaws.com/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/95c81fd2-1252-4f70-8ea6-a5bc86be3905.jpg",
+        "icon": "https://zid-testing.s3.eu-west-1.amazonaws.com/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/4fc8e754-6b49-4767-bceb-0ed084f7cfeb-32x32.jpg",
+        "meta_title": "my store title",
+        "description": "my store description",
+        "head_scripts": {},
+        "maintenance_mode": 0,
+        "has_new_products_service": 1,
+        "is_low_stock_label_enabled": true,
+        "is_product_reviews_enabled": true,
+        "is_different_consignee_allowed": false,
+        "low_stock_quantity_limit": 12,
+        "customers_login_by_email_status": true,
+        "commercial_registration_number": "1234567811",
+        "commercial_registration_number_activation": "1",
+        "is_tamara_product_widget_enabled": "1",
+        "storefront_theme": {
+            "id": "793a9d5e-7da8-40eb-90a5-fe0f401af698",
+            "name": "test-theme"
+        },
+        "is_custom_theme": true
+    }
+}

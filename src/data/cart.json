@@ -1,0 +1,121 @@
+{
+    "cart": {
+        "id": 57784,
+        "session_id": "XXXXXXXXXXXXXXXXXXXXXX",
+        "phase": "address",
+        "required_customer_email": false,
+        "order_status": {
+            "name": "Initial",
+            "code": "initial"
+        },
+        "currency": {
+            "cart_currency": {
+                "id": 2,
+                "name": "Saudi Riyal",
+                "code": "SAR",
+                "symbol": "س.ر.",
+                "country": {
+                    "id": 183,
+                    "name": "السعودية",
+                    "code": "SA",
+                    "country_code": "SAU",
+                    "flag": "https://zid-testing.s3.eu-west-1.amazonaws.com/static/sa.svg"
+                }
+            },
+            "cart_store_currency": {
+                "id": 2,
+                "name": "Saudi Riyal",
+                "code": "SAR",
+                "symbol": "س.ر.",
+                "country": {
+                    "id": 183,
+                    "name": "السعودية",
+                    "code": "SA",
+                    "country_code": "SAU",
+                    "flag": "https://zid-testing.s3.eu-west-1.amazonaws.com/static/sa.svg"
+                }
+            }
+        },
+        "customer": null,
+        "skip_address": false,
+        "requires_shipping": true,
+        "shipping_address": null,
+        "shipping_method": null,
+        "payment_method": null,
+        "products": [
+            {
+                "id": 7661,
+                "product_id": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+                "sku": "Z.550.xxxxxxxxxxxx",
+                "name": "تي شيرت وطماق بشعار الماركة",
+                "custom_fields": null,
+                "quantity": 5,
+                "is_published": true,
+                "is_taxable": true,
+                "is_discounted": false,
+                "meta": null,
+                "url": "https://xxxx.com/products/5f630cdb6a824d02bc257049a3bc07ae",
+                "net_price": 127,
+                "net_price_string": "127.00 SAR",
+                "net_sale_price": null,
+                "net_sale_price_string": null,
+                "net_additions_price": 0,
+                "net_additions_price_string": null,
+                "tax_percentage": 0,
+                "tax_amount": 0,
+                "tax_amount_string": "0.00 SAR",
+                "gross_price": 0,
+                "gross_price_string": "0.00 SAR",
+                "gross_sale_price": null,
+                "gross_sale_price_string": null,
+                "price_before": null,
+                "price_before_string": null,
+                "total_before": null,
+                "total_before_string": null,
+                "price": 127,
+                "price_string": "127.00 SAR",
+                "total": 635,
+                "total_string": "635.00 SAR",
+                "is_original_product_available": true,
+                "original_product_quantity": null,
+                "is_requested_quantity_enough": true,
+                "is_original_quantity_finished": false,
+                "is_product_related_option_updated": false,
+                "is_product_price_updated": false,
+                "images": [
+                    {
+                        "id": "xxxxxx-xxxxx-xxxx-xxxx-xxxxxxxx",
+                        "origin": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/dd55c60d-7ec4-47a6-bb46-1b9439b381a6-thumbnail-370x370-70.jpeg",
+                        "thumbs": {
+                            "large": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/dd55c60d-7ec4-47a6-bb46-1b9439b381a6-thumbnail-770x770-70.jpeg",
+                            "thumbnail": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/dd55c60d-7ec4-47a6-bb46-1b9439b381a6-thumbnail-100x100-70.jpeg",
+                            "small": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/dd55c60d-7ec4-47a6-bb46-1b9439b381a6-thumbnail-370x370-70.jpeg",
+                            "medium": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/dd55c60d-7ec4-47a6-bb46-1b9439b381a6-thumbnail-500x500-70.jpeg",
+                            "full_size": "https://test-media.zid.store/266fd313-f39a-4f43-82c5-6069651e32cc/dd55c60d-7ec4-47a6-bb46-1b9439b381a6.jpeg"
+                        }
+                    }
+                ]
+            }
+        ],
+        "products_count": 2,
+        "products_weight": 0,
+        "products_subtotal": 1035,
+        "coupon": null,
+        "discount_rules": [],
+        "totals": [
+            {
+                "code": "sub_totals",
+                "value": 1035,
+                "value_string": "1035.00 SAR",
+                "title": "قيمة المنتجات"
+            },
+            {
+                "code": "total",
+                "value": 1035,
+                "value_string": "1035.00 SAR",
+                "title": "المجموع الكلي"
+            }
+        ],
+        "created_at": "2021-02-23 12:12:28"
+    }
+}

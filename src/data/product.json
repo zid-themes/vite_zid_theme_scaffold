@@ -1,0 +1,213 @@
+{
+    "product": {
+        "id": "99631cc2-3a25-43e9-bc28-55a555c4f8c0",
+        "sku": "Z.1.16006938458861678",
+        "parent_id": null,
+        "name": "منتج اختبار الوزن",
+        "slug": "99631cc2-3a25-43e9-bc28-55a555c4f8c0",
+        "price": 150,
+        "sale_price": null,
+        "formatted_price": "150.00 ر.س ",
+        "formatted_sale_price": null,
+        "currency": "SAR",
+        "currency_symbol": "ر.س ",
+        "attributes": [],
+        "categories": [
+            {
+                "id": "447",
+                "name": "Weight Test",
+                "description": "Weight Test",
+                "cover_image": null,
+                "image": "3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/25757d8a-77e7-4ab3-b198-66128e902ddb.jpeg",
+                "display_order": null
+            }
+        ],
+        "display_order": 2,
+        "has_options": false,
+        "has_fields": false,
+        "images": [
+            {
+                "id": "a82b0ed8-ec84-488b-b07f-c5ed42d88707",
+                "image": {
+                    "thumbnail": "https://test-media.zid.store/thumbs/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/a82b0ed8-ec84-488b-b07f-c5ed42d88707-thumbnail-100x100.png",
+                    "medium": "https://test-media.zid.store/thumbs/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/a82b0ed8-ec84-488b-b07f-c5ed42d88707-thumbnail-500x500.png",
+                    "full_size": "https://test-media.zid.store/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/a82b0ed8-ec84-488b-b07f-c5ed42d88707.png",
+                    "large": "https://test-media.zid.store/thumbs/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/a82b0ed8-ec84-488b-b07f-c5ed42d88707-thumbnail-770x770.png",
+                    "small": "https://test-media.zid.store/thumbs/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/a82b0ed8-ec84-488b-b07f-c5ed42d88707-thumbnail-370x370.png"
+                },
+                "alt_text": null,
+                "display_order": 0
+            }
+        ],
+        "is_draft": false,
+        "quantity": 932,
+        "is_infinite": false,
+        "html_url": "https://testing-catalog.zid.sa/osama/products/99631cc2-3a25-43e9-bc28-55a555c4f8c0",
+        "weight": {
+            "value": 10,
+            "unit": "kg"
+        },
+        "keywords": [],
+        "requires_shipping": true,
+        "is_taxable": false,
+        "structure": "standalone",
+        "seo": null,
+        "description": "وصف منتج لاختبار الوزن 213132",
+        "variants": [],
+        "custom_user_input_fields": [],
+        "custom_option_fields": [],
+        "options": [],
+        "related_products": [
+            {
+                "id": "2299cf02-0ae6-4bc7-b6b5-5ccaeaf34e51",
+                "sku": "Z.1.16037138866992776",
+                "parent_id": null,
+                "name": "عدسات ديفا درجة ٤",
+                "slug": "new-lenses",
+                "price": 80,
+                "sale_price": null,
+                "formatted_price": "80.00 ر.س ",
+                "formatted_sale_price": null,
+                "currency": "SAR",
+                "currency_symbol": "ر.س ",
+                "attributes": [],
+                "categories": [
+                    {
+                        "id": "455",
+                        "name": null,
+                        "description": null,
+                        "cover_image": null,
+                        "image": null,
+                        "display_order": null
+                    },
+                    {
+                        "id": "447",
+                        "name": "Weight Test",
+                        "description": "Weight Test",
+                        "cover_image": null,
+                        "image": "3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/25757d8a-77e7-4ab3-b198-66128e902ddb.jpeg",
+                        "display_order": null
+                    }
+                ],
+                "display_order": 0,
+                "has_options": false,
+                "has_fields": false,
+                "images": [
+                    {
+                        "id": "804fba5e-e006-4315-9ab1-9e5817441b80",
+                        "image": {
+                            "thumbnail": "https://test-media.zid.store/thumbs/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/804fba5e-e006-4315-9ab1-9e5817441b80-thumbnail-100x100-70.jpeg",
+                            "medium": "https://test-media.zid.store/thumbs/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/804fba5e-e006-4315-9ab1-9e5817441b80-thumbnail-500x500-70.jpeg",
+                            "full_size": "https://test-media.zid.store/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/804fba5e-e006-4315-9ab1-9e5817441b80.jpeg",
+                            "large": "https://test-media.zid.store/thumbs/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/804fba5e-e006-4315-9ab1-9e5817441b80-thumbnail-770x770-70.jpeg",
+                            "small": "https://test-media.zid.store/thumbs/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/804fba5e-e006-4315-9ab1-9e5817441b80-thumbnail-370x370-70.jpeg"
+                        },
+                        "alt_text": "new good lenses brown eye",
+                        "display_order": 0
+                    }
+                ],
+                "is_draft": false,
+                "quantity": null,
+                "is_infinite": true,
+                "html_url": "https://testing-catalog.zid.sa/osama/products/2299cf02-0ae6-4bc7-b6b5-5ccaeaf34e51",
+                "weight": {
+                    "value": 0,
+                    "unit": "kg"
+                },
+                "keywords": [],
+                "requires_shipping": true,
+                "is_taxable": false,
+                "structure": "standalone",
+                "seo": {
+                    "title": "new lense",
+                    "description": " new brown lenses for her"
+                }
+            },
+            {
+                "id": "51559e33-1c18-4ce3-a48a-aac631f81485",
+                "sku": "Z.1.1605108909214592",
+                "parent_id": null,
+                "name": "Weight variation 3",
+                "slug": "weight-variation",
+                "price": 100,
+                "sale_price": 80,
+                "formatted_price": "100.00 ر.س ",
+                "formatted_sale_price": "80.00 ر.س ",
+                "currency": "SAR",
+                "currency_symbol": "ر.س ",
+                "attributes": [],
+                "categories": [
+                    {
+                        "id": "424",
+                        "name": "أثاث",
+                        "description": "السلام عليكم  السلام عليكم  السلام عليكم  السلام عليكم  السلام عليكم  السلام عليكم  السلام عليكم  السلام عليكم  السلام عليكم  السلام",
+                        "cover_image": "3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/4c1a9bb1-3bb0-4bd2-acc1-ef77c155e4bb.png",
+                        "image": "3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/60f86a24-614c-47dd-a187-26344b56befd.png",
+                        "display_order": null
+                    }
+                ],
+                "display_order": 3,
+                "has_options": true,
+                "has_fields": false,
+                "images": [],
+                "is_draft": false,
+                "quantity": null,
+                "is_infinite": true,
+                "html_url": "https://testing-catalog.zid.sa/osama/products/51559e33-1c18-4ce3-a48a-aac631f81485",
+                "weight": {
+                    "value": 120,
+                    "unit": "kg"
+                },
+                "keywords": [],
+                "requires_shipping": true,
+                "is_taxable": false,
+                "structure": "parent",
+                "seo": {
+                    "title": "Weight variation ",
+                    "description": "تجر أسامة هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق متجر أسامة هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق"
+                }
+            },
+            {
+                "id": "7b6fc8b8-71e2-455d-8750-ac6eae217dfa",
+                "sku": "Z.1.1601305332802648",
+                "parent_id": null,
+                "name": "product 1 - weight test",
+                "slug": "7b6fc8b8-71e2-455d-8750-ac6eae217dfa",
+                "price": 200,
+                "sale_price": null,
+                "formatted_price": "200.00 ر.س ",
+                "formatted_sale_price": null,
+                "currency": "SAR",
+                "currency_symbol": "ر.س ",
+                "attributes": [],
+                "categories": [
+                    {
+                        "id": "457",
+                        "name": null,
+                        "description": null,
+                        "cover_image": null,
+                        "image": null,
+                        "display_order": null
+                    }
+                ],
+                "display_order": 21,
+                "has_options": false,
+                "has_fields": false,
+                "images": [],
+                "is_draft": false,
+                "quantity": null,
+                "is_infinite": true,
+                "html_url": "https://testing-catalog.zid.sa/osama/products/7b6fc8b8-71e2-455d-8750-ac6eae217dfa",
+                "weight": {
+                    "value": 3,
+                    "unit": "kg"
+                },
+                "keywords": [],
+                "requires_shipping": true,
+                "is_taxable": true,
+                "structure": "standalone",
+                "seo": null
+            }
+        ]
+    }
+}

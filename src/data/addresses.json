@@ -1,0 +1,27 @@
+{
+    "addresses": [
+        {
+            "id": 316465,
+            "name": "محمد",
+            "address_street": "test",
+            "address_district": "tests",
+            "address_formatted": null,
+            "address_lat": 0,
+            "address_lng": 0,
+            "city": {
+                "id": 125,
+                "name": "أبوظبي",
+                "ar_name": "أبوظبي",
+                "en_name": "Abu Dhabi"
+            },
+            "country": {
+                "id": 221,
+                "iso_code_2": "AE",
+                "iso_code_3": "ARE",
+                "name": "الإمارات العربية المتحدة",
+                "ar_name": "الإمارات العربية المتحدة",
+                "en_name": "UAE"
+            }
+        }
+    ]
+}

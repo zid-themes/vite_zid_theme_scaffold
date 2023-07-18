@@ -1,0 +1,26 @@
+{  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "store_banks": [
+        {
+            "id": 1,
+            "account_number": "1234526789290287262",
+            "iban": "SA1234567890123456789012",
+            "beneficiary_name": "osama khaled",
+            "is_visible": 0,
+            "bank": {
+                "id": 11,
+                "name": "مصرف الراجحي",
+                "logo": "https://zid-platform.s3-accelerate.amazonaws.com/public/default/icons/al-rajhi.png"
+            }
+        }
+    ]
+}

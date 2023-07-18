@@ -1,0 +1,25 @@
+{
+    "session": {
+        "cartSessionId": "m7Ua4PauasAAA1xxxxxxxxxx",
+        "customerToken": null,
+        "lang": {
+            "id": 2,
+            "name": "عربي",
+            "code": "ar"
+        },
+        "currency": {
+            "id": 2,
+            "name": "Saudi Riyal",
+            "code": "SAR",
+            "symbol": "س.ر.",
+            "country": {
+                "id": 183,
+                "name": "السعودية",
+                "code": "SA",
+                "country_code": "SAU",
+                "flag": "https://zid-testing.s3.eu-west-1.amazonaws.com/static/sa.svg"
+            }
+        },
+        "webView": false
+    }
+}

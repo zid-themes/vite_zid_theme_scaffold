@@ -1,0 +1,6 @@
+{
+    "request": {
+        "path": "/products",
+        "query": "page=1&page_size=24"
+    }
+}

@@ -3,6 +3,6 @@
   "header_meta_tags": "<meta name='description' content='This is the description of the page'><meta name='keywords' content='these, are, keywords'><meta name='author' content='John Doe'><meta name='og:title' content='The Rock'><meta name='og:type' content='video.movie'><meta name='og:url' content='http://www.imdb.com/title/tt0117500/'><meta name='og:image' content='http://ia.media-imdb.com/images/rock.jpg'><meta name='og:site_name' content='IMDb'><meta name='og:description' content='A group of U.S. Marines, under command of...'><meta name='fb:page_id' content='43929265776'>",
   "site": {
     "title": "متجر العطور الجميلة",
-    "url":"http://localhost:3000"
+    "url": "http://localhost:3000"
   }
 }

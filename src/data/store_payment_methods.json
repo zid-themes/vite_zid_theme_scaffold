@@ -1,0 +1,16 @@
+{
+    "store_payment_methods": [
+        {
+            "id": 14028,
+            "enabled": 1,
+            "code": "zid_bank_transfer",
+            "fees": 0,
+            "fees_string": "0.00 SAR",
+            "type": "zid_bank_transfer",
+            "name": "تحويل بنكي",
+            "icons": [
+                "https://media.zid.store/static/bankTransfer.png"
+            ]
+        }
+    ]
+}

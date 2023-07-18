@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "items": [
+            {
+                "id": 3232,
+                "name": "سلة الافطار",
+                "slug": "سلة-الافطار",
+                "SEO_category_title": "سلة الافطار",
+                "SEO_category_description": "سلة الافطار",
+                "description": null,
+                "url": "https://neoxeroco.com/categories/سلة-الافطار",
+                "image": null,
+                "img_alt_text": null,
+                "cover_image": null,
+                "products_count": 1,
+                "sub_categories": [],
+                "parent_id": null,
+                "is_published": true
+            }
+        ]
+    }
+}

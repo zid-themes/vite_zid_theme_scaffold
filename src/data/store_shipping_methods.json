@@ -1,0 +1,65 @@
+{"store_shipping_methods": [
+    {
+        "id": 72710,
+        "name": "زدشب سريع",
+        "service_enabled": true,
+        "is_service_approved": true,
+        "is_system_option": true,
+        "system_option_code": "zid_zidship.level_2",
+        "cod_enabled": true,
+        "delivery_option_cities": [
+            {
+                "id": 1,
+                "name": "الرياض",
+                "priority": 10,
+                "country_id": 184,
+                "country_name": "السعودية",
+                "ar_name": "الرياض",
+                "en_name": "Riyadh"
+            }
+        ],
+        "cost": [
+            {
+                "title": "داخل مدينة التاجر",
+                "cost": 21,
+                "cost_string": "21.00 SAR"
+            },
+            {
+                "title": "خارج مدينة التاجر",
+                "cost": 21,
+                "cost_string": "21.00 SAR"
+            }
+        ],
+        "cod_fee": [
+            {
+                "cod_fee": "10.0000",
+                "cod_fee_string": "10.00 SAR"
+            }
+        ],
+        "image": "https://media.zid.store/static/default/icons/zid_zidship_level_2.png",
+        "courier_icons": [
+            {
+                "name": {
+                    "ar": "مخدوم",
+                    "en": "Ma5doom"
+                },
+                "icon": "https://media.zidship.com/thumbs/courier/ff1252a8-ab14-4d1a-a390-d7ef6db982ca-thumbnail-500x500.png"
+            },
+            {
+                "name": {
+                    "ar": "لاست بوينت",
+                    "en": "Last Point"
+                },
+                "icon": "https://media.zidship.com/thumbs/courier/7be634be-7871-4af8-8b9e-a9b3cd226d37-thumbnail-500x500.png"
+            },
+            {
+                "name": {
+                    "ar": "غزال",
+                    "en": "Ghazal"
+                },
+                "icon": "https://media.zidship.com/thumbs/courier/b1f9e845-8dd4-4e2f-9c7d-364f26f8bf8e-thumbnail-500x500.png"
+            }
+        ]
+    }
+]
+}

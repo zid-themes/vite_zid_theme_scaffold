@@ -1,0 +1,131 @@
+{
+    "category": {
+        "id": 453,
+        "name": "الورد البلدى",
+        "slug": "الورد-البلدى",
+        "SEO_category_title": "الورد البلدى",
+        "SEO_category_description": "ok this a yesy",
+        "description": null,
+        "url": "https://testing-catalog.zid.sa/osama/categories/الورد-البلدى",
+        "image": null,
+        "img_alt_text": null,
+        "cover_image": "https://zid-testing.s3.eu-west-1.amazonaws.com/3dfc16e6-ad19-4126-9c2a-5e4a7fb73051/20b87590-458b-4af8-9ffb-3ae7b8515d80.png",
+        "products_count": 0,
+        "sub_categories": [
+            {
+                "id": 419,
+                "name": "قسم المنتجات اليدوية",
+                "slug": "قسم-المنتجات-اليدوية",
+                "SEO_category_title": "categorytitle",
+                "SEO_category_description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias atque illo nostrum quisquam repellendus. Aut cupiditate dolorum ducimus earum et minus necessitatibus non nostrum officia, quis quod quos recusandae saepe.",
+                "description": null,
+                "url": "https://testing-catalog.zid.sa/osama/categories/قسم-المنتجات-اليدوية",
+                "image": null,
+                "img_alt_text": "alt text of main  image",
+                "cover_image": null,
+                "products_count": 0,
+                "sub_categories": [],
+                "parent_id": 453,
+                "is_published": true
+            }
+        ],
+        "parent_id": null,
+        "is_published": true
+    },
+    "categories": [
+        {
+            "id": 1121,
+            "name": "رجال",
+            "slug": "mens",
+            "SEO_category_title": "رجال",
+            "SEO_category_description": "رجال",
+            "description": null,
+            "url": "https://xxxxx.com/categories/mens",
+            "image": "https://zid-testing.s3.eu-west-1.amazonaws.com/266fd313-f39a-4f43-82c5-6069651e32cc/b34604ad-60e4-4dbe-b65e-ee5a9c38e926-260x260.png",
+            "img_alt_text": null,
+            "cover_image": null,
+            "products_count": 2,
+            "sub_categories": [],
+            "parent_id": null,
+            "is_published": true
+        }
+    ],
+    "products": {
+        "current_page": 1,
+        "first_page_url": "/products?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "/products?page=1",
+        "path": "/products",
+        "per_page": 24,
+        "to": 10,
+        "total": 10,
+        "data": [
+            {
+                "id": "xxxxx-xxxx-xxxx-xxxx-xxxxxxx",
+                "sku": "Z.550.xxxxxxxxxxx",
+                "parent_id": null,
+                "name": "الاسترليني الكفة جوهرة المولد",
+                "slug": "الاسترليني-الكفة-جوهرة-المولد",
+                "price": 120,
+                "sale_price": null,
+                "formatted_price": "120.00 ر.س ",
+                "formatted_sale_price": null,
+                "currency": "SAR",
+                "currency_symbol": "ر.س ",
+                "attributes": [],
+                "categories": [
+                    {
+                        "id": "xxxx",
+                        "name": "نساء",
+                        "description": "",
+                        "cover_image": null,
+                        "image": "266fd313-f39a-4f43-82c5-6069651e32cc/a5e02411-49f0-4142-a8e6-dc5dc91a3cc3.png",
+                        "display_order": null
+                    },
+                    {
+                        "id": "xxxxx",
+                        "name": "رضع",
+                        "description": "لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم مطبوعه ... بروشور او فلاير على سبيل المثال ... او نماذج مواقع انترنت ...\n\nوعند موافقه العميل المبدئيه على التصميم يتم ازالة هذا النص من التصميم ويتم وضع النصوص النهائية المطلوبة للتصميم ويقول البعض ان وضع النصوص التجريبية بالتصميم قد تشغل المشاهد عن وضع الكثير من الملاحظات او الانتقادات للتصميم الاساسي.",
+                        "cover_image": null,
+                        "image": "266fd313-f39a-4f43-82c5-6069651e32cc/3ccd1e98-b5d2-4d5f-a652-03c0428306c5.png",
+                        "display_order": null
+                    }
+                ],
+                "display_order": null,
+                "has_options": false,
+                "has_fields": false,
+                "images": [
+                    {
+                        "id": "946864bc-edc9-4fbc-89db-88a6f567c3b4",
+                        "image": {
+                            "large": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/946864bc-edc9-4fbc-89db-88a6f567c3b4-thumbnail-770x770-70.jpeg",
+                            "thumbnail": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/946864bc-edc9-4fbc-89db-88a6f567c3b4-thumbnail-100x100-70.jpeg",
+                            "small": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/946864bc-edc9-4fbc-89db-88a6f567c3b4-thumbnail-370x370-70.jpeg",
+                            "medium": "https://test-media.zid.store/thumbs/266fd313-f39a-4f43-82c5-6069651e32cc/946864bc-edc9-4fbc-89db-88a6f567c3b4-thumbnail-500x500-70.jpeg",
+                            "full_size": "https://test-media.zid.store/266fd313-f39a-4f43-82c5-6069651e32cc/946864bc-edc9-4fbc-89db-88a6f567c3b4.jpeg"
+                        },
+                        "alt_text": null,
+                        "display_order": 0
+                    }
+                ],
+                "is_draft": false,
+                "quantity": null,
+                "is_infinite": true,
+                "html_url": "https://pr-1042.zidpreview.com/products/de909e85-1695-4cc3-9d19-1a2b795190bc",
+                "weight": {
+                    "value": 0,
+                    "unit": "kg"
+                },
+                "keywords": [],
+                "requires_shipping": true,
+                "is_taxable": true,
+                "structure": "standalone",
+                "seo": {
+                    "title": "الاسترليني الكفة جوهرة المولد",
+                    "description": "لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم مطبوعه ... بروشور او فلاير على سبيل المثال ... او نماذج مواقع انترنت ...وعند موافقه العميل المبدئيه على التصميم يتم ازالة هذا النص من التصميم ويتم وضع النصوص النهائية المطلوبة للتصميم ويقول البعض ان وضع النصوص التجريبية بالتصميم قد تشغل المشاهد عن وضع الكثير من الملاحظات او الانتقادات للتصميم الاساسي.وخلافاَ للاعتقاد السائد فإن لوريم إيبسوم ليس نصاَ عشوائياً، بل إن له جذور في الأدب اللاتيني الكلاسيكي منذ العام 45 قبل الميلاد. من كتاب \"حول أقاصي الخير والشر\""
+                }
+            }
+        ]
+    }
+}

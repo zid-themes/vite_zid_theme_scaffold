@@ -11,5 +11,24 @@ pre {
     margin: 1rem 0;
     border: 1px solid red;
     padding: 1rem;
+    outline: 1px solid #ccc;
+
   }
+
+  .string {
+    color: green;
+  }
+  .number {
+    color: darkorange;
+  }
+  .boolean {
+    color: blue;
+  }
+  .null {
+    color: magenta;
+  }
+  .key {
+    color: red;
+  }
+  
   
