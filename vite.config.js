@@ -24,13 +24,12 @@ export default {
 		}),
 		cp({
 			targets: [
-			  {src: './src/{footer,header,layout}.twig', dest: './dist'},
-			  {src: './src/common', dest: './dist/common'},
-			  {src: './src/templateS', dest: './dist/templateS'},
-			  {src: './src/locals', dest: './dist/locals'},
-			  {src: './src/modules', dest: './dist/modules'},
-			  {src: './src/assets',dest: './dist/assets'},
-
+			  {src: './src/{footer,header,layout}.twig', dest: './output_theme'},
+			  {src: './src/common', dest: './output_theme/common'},
+			  {src: './src/templates', dest: './output_theme/templates'},
+			  {src: './src/locals', dest: './output_theme/locals'},
+			  {src: './src/modules', dest: './output_theme/modules'},
+			  {src: './src/assets',dest: './output_theme/assets'},
 			]
 		  })
 	],
