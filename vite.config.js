@@ -2,7 +2,6 @@ import vituum from 'vituum';
 import twig from '@vituum/vite-plugin-twig';
 import cp from 'vite-plugin-cp';
 
-
 export default {
 	plugins: [
 		vituum({
@@ -12,6 +11,11 @@ export default {
 					'+.css': 'src/assets/styles',
 				},
 			},
+			pages: {
+				dir: 'src/templates',
+				extensions: ['twig'],
+			},
+
 		}),
 		
 		twig({
@@ -20,8 +24,12 @@ export default {
             functions: {
                     join: (...args) => args.join(''),
 					json_encode: (data) => JSON.stringify(data),
-            }
+            },
+			
+		
+
 		}),
+
 		cp({
 			targets: [
 			  {src: './src/{footer,header,layout}.twig', dest: './output_theme'},
@@ -37,5 +45,7 @@ export default {
 	base: '/',
 	build: {
 		emptyOutDir: true,
+		
 	},
+	
 };

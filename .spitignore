@@ -1,0 +1,9 @@
+*.otf
+tailwind.twig
+*/*/tailwindsections/*
+404.twig
+page.twig
+404-block.twig
+index-popup.twig
+product.json
+store.json
